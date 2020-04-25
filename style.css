@@ -1,0 +1,16 @@
+body {background-color: #eeeeee;
+  }
+
+hr {
+  background-color: #222831;
+  border-style: none;
+  height: 2px;
+  }
+
+h1, h3 {
+  color: #00adb5;
+}
+
+p {
+  color: #393e46;
+}
